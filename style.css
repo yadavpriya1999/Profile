@@ -1,0 +1,19 @@
+hr {
+    border-style: hidden;
+    border-top-style: dotted;
+    border-color: rgb(115, 122, 122);
+    border-width: 5x;
+    width: 5%;
+}
+
+body {
+    background-color: rgb(204, 245, 231);
+}
+
+h1 {
+    color: rgb(28, 134, 153);
+}
+
+h3 {
+    color: rgb(11, 116, 124);
+}
